@@ -39,7 +39,7 @@ async function fetchData() {
         <div>{{ directData[0] }}</div>
         <h1>Access /proxy/test-path-one</h1>
         <div>{{ nuxtProxyData1[0] }}</div>
-        <h1>Access /proxy/any</h1>
+        <h1>Access /proxy/*</h1>
         <div>{{ nuxtProxyData2[0] }}</div>
         <h1>Access /proxyAny/**</h1>
         <div>{{ nuxtProxyData3[0] }}</div>
