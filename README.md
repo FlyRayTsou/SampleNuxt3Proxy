@@ -15,8 +15,8 @@ According to Nuxt official, Nuxt3 use nitro as server engine and use h3 as frame
 # Screenshot
 
 ## Before click 「Click me」button
-<img width="859" alt="before click button" src="https://github.com/FlyRayTsou/SampleNuxt3Proxy/assets/46649963/60fc6b2c-ad2a-4c27-945f-3c7c705cde0f">
+<img width="819" alt="before click button" src="https://github.com/FlyRayTsou/SampleNuxt3Proxy/assets/46649963/7c06d5fd-17e0-4fad-ae37-c2bfb9cc06c7">
 
 
 ## After click 「Click me」button
-<img width="853" alt="after click button" src="https://github.com/FlyRayTsou/SampleNuxt3Proxy/assets/46649963/12a113a2-36e1-46d9-8180-4b97ea8817b3">
+<img width="815" alt="after click button" src="https://github.com/FlyRayTsou/SampleNuxt3Proxy/assets/46649963/ded27f2c-c439-470b-9f32-ce92f048c355">
