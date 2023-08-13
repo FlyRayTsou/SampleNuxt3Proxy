@@ -1,63 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Introduction
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a sample project to show how to use Nuxt3 framework to provide proxy features.
 
-## Setup
+As official said, Nuxt3 use nitro as server engine and use h3 as framework.
 
-Make sure to install the dependencies:
 
-```bash
-# npm
-npm install
+# Setup
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- yarn install
+- yarn dev
