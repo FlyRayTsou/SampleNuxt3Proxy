@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <fetch-todos />
   </div>
 </template>
